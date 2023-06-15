@@ -1,1 +1,1 @@
-c programming
+c, hello world project
