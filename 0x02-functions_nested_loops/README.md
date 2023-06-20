@@ -1,1 +1,1 @@
-Directory of nsted loops
+Directory of nested loops
