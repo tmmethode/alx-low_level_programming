@@ -1,1 +1,1 @@
-Directory of debugging
+debugging
