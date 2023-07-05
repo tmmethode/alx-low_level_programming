@@ -1,1 +1,1 @@
-even more pointer, arrays and strings directory
+pointer,arrays and strings
